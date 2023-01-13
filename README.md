@@ -61,8 +61,21 @@ tx
 ```
 https://terrasco.pe/mainnet/tx/36B339E9E481FE9E14A921F64052621405DC3B9A8AA5B0F5AD92CF2F62234B93
 ```
+Transfer
+```
+https://terrasco.pe/mainnet/tx/8353AAB986832A34F27892E3CE9626899F2D132CCA97D65F5654294400870D51
+```
+
 ## Transfer Out
 Address
 ```
-terra17nwgfpcaml7hslyug72rdpfgnrcsgcf9g9kc0k
+terra1sg53ke9zpkfyuwyaazagm7arv3dhnmjvc4g9ur
+```
+Community
+```
+https://terrasco.pe/mainnet/tx/617F8051216F926670D27AE54F75977E7AF029DAFEFE6E9709B11C2C1023A339
+```
+Partners
+```
+https://terrasco.pe/mainnet/tx/DB34EF7731969EB99E23031776EAF8C0B08979032B080B926B185D5F61C93196
 ```
