@@ -2,7 +2,7 @@
 
 Token
 ```
-terra1ms2jvfvhvxg83tu7w49cp438rf6fyy5vxjs7dd0c9fp2sjqye07q2w40e9
+terra1trh2tl98zdu4swpghhnxdnna4rf029eptxau95kgscz520f4tp9sexmvkv
 ```
 ## Transfer Into
 ### Team
